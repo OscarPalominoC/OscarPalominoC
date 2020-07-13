@@ -18,7 +18,9 @@ I'm one of the selected students of Platzi to be in their exclusive program call
 
 I'm an industrial engineer and an electronical technologician, I love to learn about everything that's about technology.
 
-I'm currently studing to be the finest data science.
+I'm currently studing to be a finest data science.
 
 The technologies I have learned in Platzi are:
-* C# <meter min="0" max="100" value="90">
+* C# 
+
+<meter min="0" max="100" value="90">
