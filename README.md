@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there (General Kenobi) 👋
 
 <!--
 **OscarPalominoC/OscarPalominoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm one of the selected students of Platzi to be in their exclusive program called Platzi Master.
+
+I'm an industrial engineer and an electronical technologician, I love to learn about everything that's about technology.
+
+I'm currently studing to be the finest data science.
+
+The technologies I have learned in Platzi are:
+* C# <meter min="0" max="100" value="90">
