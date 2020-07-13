@@ -28,6 +28,6 @@ The technologies I have learned in Platzi are:
 
 The learning paths I have completed at Platzi are:
 
-![English School](/english.png)
+[English School](https://raw.githubusercontent.com/OscarPalominoC/OscarPalominoC/master/english.png)
 
-![C# Learning Path](/diploma.png)
+![C# Learning Path](https://raw.githubusercontent.com/OscarPalominoC/OscarPalominoC/master/diploma.png)
