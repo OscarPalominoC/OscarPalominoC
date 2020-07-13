@@ -26,7 +26,7 @@ The technologies I have learned in Platzi are:
 * html and css
 * Javascript
 
-The learning paths I have completed at Platzi are
+The learning paths I have completed at Platzi are:
 
 ![English School](/english.png)
 
