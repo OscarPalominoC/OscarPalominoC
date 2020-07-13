@@ -22,5 +22,12 @@ I'm currently studing to be a finest data science.
 
 The technologies I have learned in Platzi are:
 * C# 
+* Python
+* html and css
+* Javascript
 
-<meter min="0" max="100" value="90">
+The learning paths I have completed at Platzi are
+
+![English School](/english.png)
+
+![C# Learning Path](/diploma.png)
