@@ -1,4 +1,4 @@
-### Hello there (General Kenobi) 👋
+# Hello there (General Kenobi) 👋
 
 <!--
 **OscarPalominoC/OscarPalominoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,17 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm one of the selected students of Platzi to be in their exclusive program called Platzi Master.
+I'm an Industrial Engineer, specialized in Data Science at Platzi Mater. As a Data Scientist in formation at Platzi Master, I provide truthful and accurate information, so that decision-making is facilitated. 
 
-I'm an industrial engineer and an electronical technologician, I love to learn about everything that's about technology.
-
-I'm currently studing to be a finest data scientist.
+As part of my Platzi Master training, I have a solid foundation in HTML, CSS, Javascript, C# and preprocessors like Pug and SASS.
 
 The technologies I have learned in Platzi are:
-* C# 
 * Python
 * HTML and CSS
 * Javascript
+* R
+* C#
+* Spark
+* Hadoop
+* XPath
+* Relational databases like MySQL and PostgreSQL
+* Non relational databases like MongoDB
+
+The libraries that I have learned as a DS are:
+* Numpy
+* Pandas
+* Requests
+* BeautifulSoup
+* lxml
+* Selenium
+
+## Wanna work togheter?
+Send me an E-Mail at <a href="mailto:ing.oscarp1@gmail.com">ing.oscarp1@gmail.com<a>
+  
+**[Check out mi LinkedIn!](https://www.linkedin.com/in/oscarpalominocardenas/)**
+
+## Projects
+
+### News Inc
+
+My recent project that I have worked with other talentful programmers is [News Inc](https://news-inc.web.app/)
+
+I was the Data Miner of the News Inc project, in this project, the articles were extracted from 6 newspapers that allow web scraping, these newspapers are from di erent countries. Once the information is extracted it is stored in a non-relational database in Mongo DB.
+The technologies used for the Data Extraction in this project were Python, Pandas, Requests, XPath, MongoDB, PyYaml, lxml, os library, and Subprocess library.
 
 The learning paths I have completed at Platzi are:
 
