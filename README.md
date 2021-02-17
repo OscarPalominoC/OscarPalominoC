@@ -52,6 +52,10 @@ My recent project that I have worked with other talentful programmers is [News I
 I was the Data Miner of the News Inc project, in this project, the articles were extracted from 6 newspapers that allow web scraping, these newspapers are from di erent countries. Once the information is extracted it is stored in a non-relational database in Mongo DB.
 The technologies used for the Data Extraction in this project were Python, Pandas, Requests, XPath, MongoDB, PyYaml, lxml, os library, and Subprocess library.
 
+## Learning Paths
+
+I am currently studying the Data Science Learning Path at Platzi!
+
 The learning paths I have completed at Platzi are:
 
 ![English School](https://raw.githubusercontent.com/OscarPalominoC/OscarPalominoC/master/english.png)
