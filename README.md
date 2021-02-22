@@ -1,32 +1,3 @@
-<style>
-.boxContainer {
-  
-}
-.boxContainer .boxContent {
-  width: 100%;
-  height: auto;
-}
-.boxContainer .boxContent h1 {
-  font-size: 40px;
-  font-weight: 600;
-  color: #1A1830;
-}
-.boxContainer .boxContent h2 {
-  font-size: 30px;
-  font-weight: 600px;
-  color: #818181;
-}
-.boxContainer .boxContent h3 {
-  font-size: 25px;
-  font-weight: 600px;
-  color: #818181;
-}
-.boxContainer .boxContent a {
-  text-decoration: none;
-  color: #818181;
-}|
-</style>
-
 # Hello there (General Kenobi) 👋
 
 I'm an Industrial Engineer, specialized in Data Science at Platzi Master. As a Data Scientist in formation at Platzi Master, I provide truthful and accurate information, so that decision-making is facilitated. 
