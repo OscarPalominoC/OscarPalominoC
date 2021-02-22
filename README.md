@@ -1,12 +1,6 @@
 <style>
 .boxContainer {
-  margin-top: 20px;
-  box-shadow: 5px 5px 5px 5px rgba(214, 214, 214, 0.631);
-  border-radius: 30px;
-  padding: 20px;
-  display: flex;
-  justify-content: left;
-  align-items: center;
+  
 }
 .boxContainer .boxContent {
   width: 100%;
@@ -69,7 +63,13 @@ The libraries that I have learned as a DS are:
 
 ## Projects 🛠
 
-<div class="boxContainer">
+<div class="boxContainer" style="margin-top: 20px;
+  box-shadow: 5px 5px 5px 5px rgba(214, 214, 214, 0.631);
+  border-radius: 30px;
+  padding: 20px;
+  display: flex;
+  justify-content: left;
+  align-items: center;">
     <div class="boxContent">
         <h2>News Inc 📜</h2>
         <h3>Python 🐍</h3>
