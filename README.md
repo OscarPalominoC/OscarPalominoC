@@ -25,7 +25,7 @@ As part of my Platzi Master training, I have a solid foundation in HTML, CSS, Ja
 |Gmail | **Send me an E-Mail at <a href="mailto:ing.oscarp1@gmail.com" target="_blank">ing.oscarp1@gmail.com<a>**|
 |LinkedIn |**<a href="https://www.linkedin.com/in/oscarpalominocardenas/" target="_blank">Check out mi LinkedIn profile!</a>**|
 |Twitter | **<a href="https://twitter.com/OscarPalominoC" target="_blank">Follow me on Twitter!</a>** 🐦 |
-| Platzi Profile | [Platzi Profile](https://platzi.com/p/OscarPalomino/){target=""_blank} |
+| Platzi Profile | [Platzi Profile](https://platzi.com/p/OscarPalomino/){target="_blank"} |
 
 ## Projects 🛠
 
