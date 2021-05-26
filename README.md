@@ -16,8 +16,6 @@ I'm an Industrial Engineer, specialized in Data Science at Platzi Master. As a D
 * **Mastered Front End Technologies:** HTML, CSS, Pug, SASS, XPath.
 * **Soft Skills:** Communication, Teamwork, Problem Solving, Adaptability, Creativity, Time Management.
 
-As part of my Platzi Master training, I have a solid foundation in HTML, CSS, Javascript, C# and preprocessors like Pug and SASS.
-
 ## Do you want to contact me? 📫
 
 | Social | Link |
