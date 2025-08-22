@@ -1,6 +1,6 @@
 # Hello there (General Kenobi) 👋
 
-I'm an Industrial Engineer, specialized in Data Science at Platzi Master. As a Data Scientist in formation at Platzi Master, I provide truthful and accurate information, so that decision-making is facilitated. 
+Multidisciplinary professional with a background in Industrial Engineering and current studies in Software Analysis and Development. Strong foundation in Python programming, data analysis, cloud fundamentals, and agile methodologies. Experience in customer support at Amazon SDS, with solid teamwork, communication, and mentoring capabilities. Passionate about delivering impactful solutions through data and scalable technology.
 
 
 
